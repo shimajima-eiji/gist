@@ -4,7 +4,8 @@ https://qiita.com/YumaInaura/items/8088aae8df7ffac482b9
 
 # リポジトリ
 ## Gist
-- https://gist.github.com/shimajima-eiji/401508ad48e248c6371e30bec1fcadb6
+- For https://nomuraya.work/techzine/0171
+  - https://gist.github.com/shimajima-eiji/401508ad48e248c6371e30bec1fcadb6
 - https://gist.github.com/shimajima-eiji/aa674c4c763632dfdb3afacdacf27b96
 ## Qiita
 - https://gist.github.com/shimajima-eiji/da515f9060757d1534a28cc71ade83d9
