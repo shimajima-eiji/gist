@@ -8,6 +8,8 @@ https://qiita.com/YumaInaura/items/8088aae8df7ffac482b9
   - https://gist.github.com/shimajima-eiji/08027f60a909dc5092830acd64ea3ef6
 - For: [サーバーの環境を出来るだけ変えないでjqコマンドっぽいことをやる方法を考える](https://nomuraya.work/techzine/0171)
   - https://gist.github.com/shimajima-eiji/401508ad48e248c6371e30bec1fcadb6
+- For: [VivaldiのWebパネルでつくる開発環境：IDE編](https://nomuraya.work/techzine/0181)
+  - https://gist.github.com/shimajima-eiji/220c9867134f09ff034761b0a7ddea12
 - https://gist.github.com/shimajima-eiji/aa674c4c763632dfdb3afacdacf27b96
 ## Qiita
 - For: [SeleniumBuilderで実施したテストがすべて成功で完了できたのか判定する方法](http://qiita.com/nomurasan/items/90a2eb72cbb19293048e)
