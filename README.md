@@ -4,6 +4,8 @@ https://qiita.com/YumaInaura/items/8088aae8df7ffac482b9
 
 # リポジトリ
 ## Gist
+- For: [【悪用厳禁】忘れてしまったZIPパスワードをUWSCで総当たりチェックする（ブルートフォースアタック）](https://nomuraya.work/diary/0155)
+  - https://gist.github.com/shimajima-eiji/2a0d16be4a07f3d982e2d9edf870a17f
 - For: [【slack】slackからLINEにメッセージを送ったりメールを送ったりさせる【運用】](https://nomuraya.work/techzine/0177)
   - https://gist.github.com/shimajima-eiji/08027f60a909dc5092830acd64ea3ef6
 - For: [サーバーの環境を出来るだけ変えないでjqコマンドっぽいことをやる方法を考える](https://nomuraya.work/techzine/0171)
