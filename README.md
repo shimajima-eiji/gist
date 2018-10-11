@@ -4,6 +4,8 @@ https://qiita.com/YumaInaura/items/8088aae8df7ffac482b9
 
 # リポジトリ
 ## Gist
+- For: [サーバー監視でsshを使うとsyslogにゴミログが溜まるから、キレイなモニタリングスクリプトを作る](https://nomuraya.work/techzine/0191)
+  - https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
 - For: [Mapr6.0 トラブル事例と解決まとめ](https://nomuraya.work/techzine/0169)
   - https://gist.github.com/shimajima-eiji/115ad9d07b169f68c8464a0525f99d37
 - For: [【悪用厳禁】忘れてしまったZIPパスワードをUWSCで総当たりチェックする（ブルートフォースアタック）](https://nomuraya.work/diary/0155)
