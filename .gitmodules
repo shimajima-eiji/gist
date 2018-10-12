@@ -1,0 +1,21 @@
+[submodule "selenium_sample"]
+	path = selenium_sample
+	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
+[submodule "clean_monitir"]
+	path = clean_monitir
+	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
+[submodule "mapr_maintenance"]
+	path = mapr_maintenance
+	url = https://gist.github.com/shimajima-eiji/115ad9d07b169f68c8464a0525f99d37
+[submodule "uwsc_ascii"]
+	path = uwsc_ascii
+	url = https://gist.github.com/shimajima-eiji/2a0d16be4a07f3d982e2d9edf870a17f
+[submodule "gas_slack2line"]
+	path = gas_slack2line
+	url = https://gist.github.com/shimajima-eiji/08027f60a909dc5092830acd64ea3ef6
+[submodule "python_jq"]
+	path = python_jq
+	url = https://gist.github.com/shimajima-eiji/401508ad48e248c6371e30bec1fcadb6
+[submodule "vivaldi_ide"]
+	path = vivaldi_ide
+	url = https://gist.github.com/shimajima-eiji/220c9867134f09ff034761b0a7ddea12
