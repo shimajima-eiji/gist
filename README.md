@@ -4,6 +4,8 @@ https://qiita.com/YumaInaura/items/8088aae8df7ffac482b9
 
 # リポジトリ
 ## Gist
+- For: [UWSCを使ってブラウザを操作するならSeleniumIDEやKatalonといったブラウザ拡張を使うと便利](https://nomuraya.work/techzine/0195)
+  - https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
 - For: [サーバー監視でsshを使うとsyslogにゴミログが溜まるから、キレイなモニタリングスクリプトを作る](https://nomuraya.work/techzine/0191)
   - https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
 - For: [Mapr6.0 トラブル事例と解決まとめ](https://nomuraya.work/techzine/0169)
