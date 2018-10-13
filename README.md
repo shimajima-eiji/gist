@@ -2,6 +2,8 @@
 compire: https://github.com/shimajima-eiji/resume
 
 ## Gist
+- For: [外からやってきた意図しないアクセスを弾いたりブラウザの履歴を隠蔽する](https://nomuraya.work/techzine/0198)
+  - [gist](https://gist.github.com/shimajima-eiji/5d0f80af354f315c5e2670c2d2ce676d)
 - For: [UWSCを使ってブラウザを操作するならSeleniumIDEやKatalonといったブラウザ拡張を使うと便利](https://nomuraya.work/techzine/0195)
   - [gist](https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710)
 - For: [サーバー監視でsshを使うとsyslogにゴミログが溜まるから、キレイなモニタリングスクリプトを作る](https://nomuraya.work/techzine/0191)
