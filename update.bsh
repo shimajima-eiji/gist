@@ -1,17 +1,24 @@
 #!/bin/bash
-set -ue
-directory=$1  #(path)
-gist=$2  #(url)
-commit=$3  #(message)
+commit=$1  #(message)
+directory=$2  #(path)
+gist=$3  #(url)
 
-# gitのindexとディレクトリを削除
-git rm ${directory}
+if [ $# = 0 ] ; then
+  echo "commit message here: (option) directory, gistURL"
+  exit 1
+fi
+if [ $# = 3 ] ; then
+  echo 'del'
+  # gitのindexとディレクトリを削除
+  # git rm ${directory}
 
-# 再度indexとディレクトリを登録
-git submodule add ${gist} ${directory}
+  # 再度indexとディレクトリを登録
+  # git submodule add ${gist} ${directory}
 
-# 全てのサブディレクトリをgit pull
-# git submodule foreach git pull origin master  
+else
+  # 全てのサブディレクトリをgit pull
+  git submodule foreach git pull origin master  
+fi
 
 git add -A
 git commit -m "${commit}"
