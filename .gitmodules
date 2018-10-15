@@ -1,6 +1,3 @@
-[submodule "clean_monitir"]
-	path = clean_monitir
-	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
 [submodule "vivaldi_ide"]
 	path = vivaldi_ide
 	url = https://gist.github.com/shimajima-eiji/220c9867134f09ff034761b0a7ddea12
