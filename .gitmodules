@@ -25,3 +25,6 @@
 [submodule "gist_templates"]
 	path = gist_templates
 	url = https://gist.github.com/shimajima-eiji/aa674c4c763632dfdb3afacdacf27b96
+[submodule "python_webapi"]
+	path = python_webapi
+	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
