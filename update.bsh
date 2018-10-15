@@ -1,0 +1,18 @@
+/!/bin/bash
+set -ue
+directory=$1  #(path)
+gist=$2  #(url)
+commit=$3  #(message)
+
+# gitのindexとディレクトリを削除
+#git rm ${directory}
+
+# 再度indexとディレクトリを登録
+git submodule add ${gist} ${directory}
+
+# 全てのサブディレクトリをgit pull
+git submodule foreach git pull origin master  
+
+git add -A
+git commit -m "${commit}"
+git push
