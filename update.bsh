@@ -1,4 +1,8 @@
 #!/bin/bash
+### Usage:
+# bash update.bsh "${commit}"
+# bash update.bsh "${commit}" https://gist.github.com/shimajima-eiji/(gist) (directory)
+
 commit=$1  #(message)
 gist=$2  #(url)
 directory=$3  #(path)
