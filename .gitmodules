@@ -1,9 +1,6 @@
 [submodule "clean_monitir"]
 	path = clean_monitir
 	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
-[submodule "mapr_maintenance"]
-	path = mapr_maintenance
-	url = https://gist.github.com/shimajima-eiji/115ad9d07b169f68c8464a0525f99d37
 [submodule "vivaldi_ide"]
 	path = vivaldi_ide
 	url = https://gist.github.com/shimajima-eiji/220c9867134f09ff034761b0a7ddea12
@@ -25,9 +22,6 @@
 [submodule "adiary_syntaxhilight"]
 	path = adiary_syntaxhilight
 	url = https://gist.github.com/shimajima-eiji/8d5e3b9df3d90dadfef51f5c09e3857a
-[submodule "mapr_pands"]
-	path = mapr_pands
-	url = https://gist.github.com/shimajima-eiji/115ad9d07b169f68c8464a0525f99d37
 [submodule "selenium_sample"]
 	path = selenium_sample
 	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
