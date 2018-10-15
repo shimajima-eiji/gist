@@ -1,6 +1,3 @@
-[submodule "selenium_sample"]
-	path = selenium_sample
-	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
 [submodule "clean_monitir"]
 	path = clean_monitir
 	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
@@ -19,3 +16,9 @@
 [submodule "vivaldi_ide"]
 	path = vivaldi_ide
 	url = https://gist.github.com/shimajima-eiji/220c9867134f09ff034761b0a7ddea12
+[submodule "python_gist"]
+	path = python_gist
+	url = https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186
+[submodule "selenium_sample"]
+	path = selenium_sample
+	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
