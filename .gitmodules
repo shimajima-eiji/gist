@@ -25,3 +25,6 @@
 [submodule "selenium_sample"]
 	path = selenium_sample
 	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
+[submodule "mapr_maintenance"]
+	path = mapr_maintenance
+	url = https://gist.github.com/shimajima-eiji/115ad9d07b169f68c8464a0525f99d37
