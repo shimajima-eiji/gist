@@ -12,9 +12,11 @@ if [ $# -eq 3 ] ; then
   rename_directory=${directory}
 fi
 
-if [ $# -ge 3 -a -e "${rename_directory}" ] ; then
+if [ $# -ge 3 ] ; then
   # gitのindexとディレクトリを削除
-  git rm -r ${rename_directory}
+  if [ -e "${rename_directory}" ] ; then
+    git rm -r ${rename_directory}
+  fi
 
   # 再度indexとディレクトリを登録
   git submodule add ${gist} ${directory}

@@ -22,3 +22,6 @@
 [submodule "python_toml"]
 	path = python_toml
 	url = https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186
+[submodule "gist_templates"]
+	path = gist_templates
+	url = https://gist.github.com/shimajima-eiji/aa674c4c763632dfdb3afacdacf27b96
