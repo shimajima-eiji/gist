@@ -4,9 +4,6 @@
 [submodule "mapr_maintenance"]
 	path = mapr_maintenance
 	url = https://gist.github.com/shimajima-eiji/115ad9d07b169f68c8464a0525f99d37
-[submodule "uwsc_ascii"]
-	path = uwsc_ascii
-	url = https://gist.github.com/shimajima-eiji/2a0d16be4a07f3d982e2d9edf870a17f
 [submodule "gas_slack2line"]
 	path = gas_slack2line
 	url = https://gist.github.com/shimajima-eiji/08027f60a909dc5092830acd64ea3ef6
@@ -22,3 +19,6 @@
 [submodule "selenium_sample"]
 	path = selenium_sample
 	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
+[submodule "uwsc_ascii"]
+	path = uwsc_ascii
+	url = https://gist.github.com/shimajima-eiji/2a0d16be4a07f3d982e2d9edf870a17f
