@@ -1,4 +1,4 @@
-/!/bin/bash
+#!/bin/bash
 set -ue
 directory=$1  #(path)
 gist=$2  #(url)
@@ -11,7 +11,7 @@ git rm ${directory}
 git submodule add ${gist} ${directory}
 
 # 全てのサブディレクトリをgit pull
-git submodule foreach git pull origin master  
+# git submodule foreach git pull origin master  
 
 git add -A
 git commit -m "${commit}"
