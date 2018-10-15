@@ -5,7 +5,7 @@ gist=$2  #(url)
 commit=$3  #(message)
 
 # gitのindexとディレクトリを削除
-#git rm ${directory}
+git rm ${directory}
 
 # 再度indexとディレクトリを登録
 git submodule add ${gist} ${directory}
