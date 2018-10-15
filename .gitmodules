@@ -10,9 +10,6 @@
 [submodule "vivaldi_ide"]
 	path = vivaldi_ide
 	url = https://gist.github.com/shimajima-eiji/220c9867134f09ff034761b0a7ddea12
-[submodule "python_gist"]
-	path = python_gist
-	url = https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186
 [submodule "selenium_sample"]
 	path = selenium_sample
 	url = https://gist.github.com/shimajima-eiji/6cb538c613effc5c6326aea06cd31710
@@ -22,3 +19,6 @@
 [submodule "gas_slack2line"]
 	path = gas_slack2line
 	url = https://gist.github.com/shimajima-eiji/08027f60a909dc5092830acd64ea3ef6
+[submodule "python_toml"]
+	path = python_toml
+	url = https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186

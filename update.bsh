@@ -1,19 +1,23 @@
 #!/bin/bash
 commit=$1  #(message)
-directory=$2  #(path)
-gist=$3  #(url)
+gist=$2  #(url)
+directory=$3  #(path)
+rename_directory=$4  #(path)
 
 if [ $# = 0 ] ; then
   echo "commit message here: (option) directory, gistURL"
   exit 1
 fi
-if [ $# = 3 ] ; then
-  echo 'del'
+if [ $# -eq 3 ] ; then
+  rename_directory=${directory}
+fi
+
+if [ $# -ge 3 -a -e "${rename_directory}" ] ; then
   # gitのindexとディレクトリを削除
-  # git rm ${directory}
+  git rm -r ${rename_directory}
 
   # 再度indexとディレクトリを登録
-  # git submodule add ${gist} ${directory}
+  git submodule add ${gist} ${directory}
 
 else
   # 全てのサブディレクトリをgit pull
