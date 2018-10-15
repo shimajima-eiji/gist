@@ -2,6 +2,8 @@
 compire: https://github.com/shimajima-eiji/resume
 
 ## Gist
+- [gist](https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186)
+  - description: [yamlユーザーよ、tomlに移行しよう！](https://nomuraya.work/techzine/0202)
 - [gist](https://gist.github.com/shimajima-eiji/5d0f80af354f315c5e2670c2d2ce676d)
   - description: [JavaScriptをOFFにしているユーザーにコンテンツを表示させない](https://nomuraya.work/techzine/0200)
   - description: [javascirptでもyamlを使いたい！jsonパーサーと参照つき](https://nomuraya.work/techzine/0199)
