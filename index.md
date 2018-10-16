@@ -1,7 +1,4 @@
-# リポジトリ
-compire: https://github.com/shimajima-eiji/resume
-
-## Gist
+# Gist
 - [gist](https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186)
   - description: [yamlユーザーよ、tomlに移行しよう！](https://nomuraya.work/techzine/0202)
 - [gist](https://gist.github.com/shimajima-eiji/5d0f80af354f315c5e2670c2d2ce676d)
@@ -24,7 +21,7 @@ compire: https://github.com/shimajima-eiji/resume
   - description: [VivaldiのWebパネルでつくる開発環境：IDE編](https://nomuraya.work/techzine/0181)
 - [gist](https://gist.github.com/shimajima-eiji/aa674c4c763632dfdb3afacdacf27b96)
 
-## Qiita
+# Qiita
 - [gist](https://gist.github.com/shimajima-eiji/d4713abb3159a55ebbce500370277033)
   - description: [SeleniumBuilderで実施したテストがすべて成功で完了できたのか判定する方法](http://qiita.com/nomurasan/items/90a2eb72cbb19293048e)
 - [gist](https://gist.github.com/shimajima-eiji/da515f9060757d1534a28cc71ade83d9)
