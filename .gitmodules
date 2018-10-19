@@ -28,3 +28,6 @@
 [submodule "python_webapi"]
 	path = python_webapi
 	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
+[submodule "expantion_command"]
+	path = expantion_command
+	url = https://gist.github.com/shimajima-eiji/41e1492848a00d3f095286eecc4bbe85
