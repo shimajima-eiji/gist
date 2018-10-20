@@ -1,5 +1,12 @@
 # Gist
+- [gist](https://gist.github.com/shimajima-eiji/71a414ae1c6848213d171db5a99623ad)
+  - github page: [install golang](https://github.nomuraya.work/gist/install_golang)
+  - description: [golang install](https://nomuraya.work/develop/cmd/golang)
+- [gist](https://gist.github.com/shimajima-eiji/41e1492848a00d3f095286eecc4bbe85)
+  - github page: [expansion_command](https://github.nomuraya.work/gist/expansion_command)
+  - description: [コマンド拡張 cd/cdls](https://nomuraya.work/techzine/0212)
 - [gist](https://gist.github.com/shimajima-eiji/cd5056b37c538132cd532bfdadb9a186)
+  - github page: [python toml](https://github.nomuraya.work/gist/python_toml)
   - description: [yamlユーザーよ、tomlに移行しよう！](https://nomuraya.work/techzine/0202)
 - [gist](https://gist.github.com/shimajima-eiji/5d0f80af354f315c5e2670c2d2ce676d)
   - description: [JavaScriptをOFFにしているユーザーにコンテンツを表示させない](https://nomuraya.work/techzine/0200)
