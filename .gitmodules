@@ -28,9 +28,9 @@
 [submodule "python_webapi"]
 	path = python_webapi
 	url = https://gist.github.com/shimajima-eiji/ed5b27eeb47181613abbdf04222f567c
-[submodule "expantion_command"]
-	path = expantion_command
-	url = https://gist.github.com/shimajima-eiji/41e1492848a00d3f095286eecc4bbe85
 [submodule "install_golang"]
 	path = install_golang
 	url = https://gist.github.com/shimajima-eiji/71a414ae1c6848213d171db5a99623ad
+[submodule "expansion_command"]
+	path = expansion_command
+	url = https://gist.github.com/shimajima-eiji/41e1492848a00d3f095286eecc4bbe85
