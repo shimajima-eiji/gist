@@ -25,6 +25,10 @@ if [ $# -ge 3 ] ; then
   # 再度indexとディレクトリを登録
   git submodule add ${gist} ${directory}
 
+  readme="README.md"
+  echo "- [gist](${gist})" >>${readme}
+  echo "  - github page: [${directory}](https://github.nomuraya.work/gist/${directory})" >>${readme}
+  echo "  - description: [(title)]\(adiary)" >>${readme}
 else
   # 全てのサブディレクトリをgit pull
   git submodule foreach git pull origin master  

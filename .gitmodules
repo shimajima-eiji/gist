@@ -34,3 +34,6 @@
 [submodule "expansion_command"]
 	path = expansion_command
 	url = https://gist.github.com/shimajima-eiji/41e1492848a00d3f095286eecc4bbe85
+[submodule "gamebook"]
+	path = gamebook
+	url = https://gist.github.com/shimajima-eiji/5d0f80af354f315c5e2670c2d2ce676d
