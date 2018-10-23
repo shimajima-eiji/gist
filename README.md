@@ -7,3 +7,6 @@
 - [gist](https://gist.github.com/shimajima-eiji/541e3c587f716766a7a530c6ae1476d1)
   - github page: [extension_command](https://github.nomuraya.work/gist/extension_command)
   - description: [(title)]\(adiary)
+- [gist](https://gist.github.com/shimajima-eiji/541e3c587f716766a7a530c6ae1476d1)
+  - github page: [gist_extension](https://github.nomuraya.work/gist/gist_extension)
+  - description: [(title)]\(adiary)
