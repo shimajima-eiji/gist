@@ -26,9 +26,11 @@ if [ $# -ge 3 ] ; then
   git submodule add ${gist} ${directory}
 
   readme="README.md"
+  echo "# ${directory}" >>${readme}
   echo "- [gist](${gist})" >>${readme}
-  echo "  - github page: [${directory}](https://github.nomuraya.work/gist/${directory})" >>${readme}
-  echo "  - description: [(title)]\(adiary)" >>${readme}
+  echo "- github page: [${directory}](https://github.nomuraya.work/gist/${directory})" >>${readme}
+  echo "- description: [title](https://nomuraya.work/techzine/)" >>${readme}
+  echo "" >>${readme}
 else
   # 全てのサブディレクトリをgit pull
   git submodule foreach git pull origin master  
