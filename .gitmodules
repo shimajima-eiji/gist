@@ -34,12 +34,12 @@
 [submodule "gamebook"]
 	path = gamebook
 	url = https://gist.github.com/shimajima-eiji/5d0f80af354f315c5e2670c2d2ce676d
+[submodule "allcmd_ssh"]
+	path = allcmd_ssh
+	url = https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2
 [submodule "extension_command"]
 	path = extension_command
 	url = https://gist.github.com/shimajima-eiji/41e1492848a00d3f095286eecc4bbe85
 [submodule "gist_extension"]
 	path = gist_extension
 	url = https://gist.github.com/shimajima-eiji/541e3c587f716766a7a530c6ae1476d1
-[submodule "allcmd_ssh"]
-	path = allcmd_ssh
-	url = https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2
