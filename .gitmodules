@@ -40,3 +40,6 @@
 [submodule "gist_extension"]
 	path = gist_extension
 	url = https://gist.github.com/shimajima-eiji/541e3c587f716766a7a530c6ae1476d1
+[submodule "allcmd_ssh"]
+	path = allcmd_ssh
+	url = https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2
