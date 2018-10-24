@@ -23,7 +23,7 @@ if [ $# -ge 3 ] ; then
   fi
 
   # 再度indexとディレクトリを登録
-  git submodule add --force ${gist} ${directory}
+  git submodule add ${gist} ${directory}
 
   readme="README.md"
   echo "# ${directory}" >>${readme}

@@ -13,13 +13,3 @@
 - github page: [extension_command](https://github.nomuraya.work/gist/extension_command)
 - description: [cdlsコマンドでchange directoryした結果を親プロセスに反映させたい【番外：cdコマンド](https://nomuraya.work/techzine/0212)
 
-# allcmd_ssh
-- [gist](https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2)
-- github page: [allcmd_ssh](https://github.nomuraya.work/gist/allcmd_ssh)
-- description: [title](https://nomuraya.work/techzine/)
-
-# allcmd_ssh/
-- [gist](https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2)
-- github page: [allcmd_ssh/](https://github.nomuraya.work/gist/allcmd_ssh/)
-- description: [title](https://nomuraya.work/techzine/)
-
