@@ -15,6 +15,6 @@
 
 # allcmd_ssh 
 - [gist](https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2)
-- github page: [extension_command](https://github.nomuraya.work/gist/allcmd_ssh)
+- github page: [allcmd_ssh](https://github.nomuraya.work/gist/allcmd_ssh)
 - description: [VSCodeでsshもscpも全部いい感じにやりたい](https://nomuraya.work/techzine/0217)
 
