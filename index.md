@@ -1,7 +1,8 @@
 # Gist
-- [gist](https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2)
-  - github page: [allcmd_ssh](https://github.nomuraya.work/gist/allcmd_ssh)
+- [github](https://github.com/shimajima-eiji/mylib/tree/master/ope/allcmd_ssh)
+  - github page: [allcmd_ssh](https://github.nomuraya.work/utils/ope/allcmd_ssh)
   - description: [VSCodeでsshもscpも全部いい感じにやりたい](https://nomuraya.work/techzine/0217)
+  - [old_gist](https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2)
 - [gist](https://gist.github.com/shimajima-eiji/71a414ae1c6848213d171db5a99623ad)
   - github page: [install golang](https://github.nomuraya.work/gist/install_golang)
   - description: [golang install](https://nomuraya.work/develop/cmd/golang)

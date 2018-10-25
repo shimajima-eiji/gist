@@ -14,7 +14,7 @@
 - description: [cdlsコマンドでchange directoryした結果を親プロセスに反映させたい【番外：cdコマンド](https://nomuraya.work/techzine/0212)
 
 # allcmd_ssh 
-- [gist](https://gist.github.com/shimajima-eiji/201c0593c304f9ef395572958750ecd2)
-- github page: [allcmd_ssh](https://github.nomuraya.work/gist/allcmd_ssh)
+- [github](https://github.com/shimajima-eiji/mylib/tree/master/ope/allcmd_ssh)
+- github page: [allcmd_ssh](https://github.nomuraya.work/utils/ope/allcmd_ssh)
 - description: [VSCodeでsshもscpも全部いい感じにやりたい](https://nomuraya.work/techzine/0217)
 
