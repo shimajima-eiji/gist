@@ -19,7 +19,8 @@ fi
 if [ $# -ge 3 ] ; then
   # gitのindexとディレクトリを削除
   if [ -e "${rename_directory}" ] ; then
-    git rm -r ${rename_directory}
+    git submodule deinit ${rename_directory}
+    git rm ${rename_directory}
   fi
 
   # 再度indexとディレクトリを登録
@@ -31,6 +32,8 @@ if [ $# -ge 3 ] ; then
   echo "- github page: [${directory}](https://github.nomuraya.work/gist/${directory})" >>${readme}
   echo "- description: [title](https://nomuraya.work/techzine/)" >>${readme}
   echo "" >>${readme}
+
+  # この方法でダメなら.git/configや.git/module/を削除する
 else
   # 全てのサブディレクトリをgit pull
   git submodule foreach git pull origin master  
